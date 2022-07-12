@@ -19,6 +19,6 @@
     <a href="mailto:leonardo.a_silva@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  	
  
-  ![Snake animation](https://github.com/LeonardoAlves98)
+  ![Snake animation](https://github.com/LeonardoAlves98/LeonardoAlves98/blob/output/github-contribution-grid-snake.svg))
  
 </div>
