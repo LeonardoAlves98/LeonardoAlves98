@@ -3,7 +3,7 @@
 - 🌱 Estudando HTML, CSS e Javascript
 <div align="center">
   <a href="https://github.com/LeonardoAlves98">
-    <img width="48%"height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAlves98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+    <img width="48%"height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAlves98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img width="48%"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlves98&layout=compact&langs_count=16&theme=tokyonight">
     
 </div>
